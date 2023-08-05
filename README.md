@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello
+I am a full stack developer specializing in website design.
+
 <!--
 **parsgit/parsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
