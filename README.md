@@ -24,7 +24,7 @@
 #### Learning :
 It includes things that I have less skill in and I am learning and gaining experience in them
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-FB542B.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 <!--
